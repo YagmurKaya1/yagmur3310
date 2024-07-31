@@ -1,4 +1,4 @@
- [![MasterHead]([adresi buraya yapıştır](https://www.google.com.tr/url?sa=i&url=https%3A%2F%2Fgithub.com%2FKaran-Dhingra&psig=AOvVaw3GxPUhJK2_PFdMKWNflDdG&ust=1722494786500000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJDIoaPX0IcDFQAAAAAdAAAAABAJ))
+ [![MasterHead](https://www.google.com.tr/url?sa=i&url=https%3A%2F%2Fgithub.com%2FKaran-Dhingra&psig=AOvVaw3GxPUhJK2_PFdMKWNflDdG&ust=1722494786500000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJDIoaPX0IcDFQAAAAAdAAAAABAJ)
 <h1 align="center">Hi 👋, I'm Yağmur Kaya</h1>
 <h3 align="center">Passionate Java Developer | Backend Specialist | Continuous Learner</h3>
 
