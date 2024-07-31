@@ -1,4 +1,8 @@
- [![MasterHead](https://camo.githubusercontent.com/c423e9aecec89ff2238d2eb186b3612903b10e8503b7e7032f5f2e3d1541235b/68747470733a2f2f7777772e6d75636b6962752e64652f77702d636f6e74656e742f75706c6f6164732f323031382f31302f4f63746f6361742e706e67)
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yagmur3310/yagmur3310/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yagmur3310/yagmur3310/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yagmur3310/yagmur3310/output/github-contribution-grid-snake.svg">
+</picture>s
 <h1 align="center">Hi 👋, I'm Yağmur Kaya</h1>
 <h3 align="center">Passionate Java Developer | Backend Specialist | Continuous Learner</h3>
 
