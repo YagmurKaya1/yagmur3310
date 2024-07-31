@@ -1,8 +1,4 @@
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yagmur3310/yagmur3310/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yagmur3310/yagmur3310/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yagmur3310/yagmur3310/output/github-contribution-grid-snake.svg">
-</picture>s
+ [![MasterHead]([adresi buraya yapıştır](https://www.google.com.tr/url?sa=i&url=https%3A%2F%2Fgithub.com%2FKaran-Dhingra&psig=AOvVaw3GxPUhJK2_PFdMKWNflDdG&ust=1722494786500000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJDIoaPX0IcDFQAAAAAdAAAAABAJ))
 <h1 align="center">Hi 👋, I'm Yağmur Kaya</h1>
 <h3 align="center">Passionate Java Developer | Backend Specialist | Continuous Learner</h3>
 
